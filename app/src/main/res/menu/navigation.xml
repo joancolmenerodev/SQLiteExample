@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_sqlite"
+        android:title="@string/sqlite" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:title="@string/add_language" />
+
+    <item
+        android:id="@+id/navigation_content_provider"
+        android:title="@string/content_provider" />
+
+</menu>

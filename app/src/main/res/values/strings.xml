@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteExample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sqlite">SQLite</string>
+    <string name="add_language">Add Language</string>
+    <string name="content_provider">Content Provider</string>
+</resources>
